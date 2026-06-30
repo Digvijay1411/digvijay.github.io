@@ -7,12 +7,3 @@ venue: "VIT University Vellore"
 date: 07/12/2025
 location: "Vellore, India"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
